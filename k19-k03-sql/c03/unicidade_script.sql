@@ -1,4 +1,4 @@
-CREATE DATABASE db_loja;
+CREATE DATABASE db_loja; 
 
 SHOW DATABASES;
 
